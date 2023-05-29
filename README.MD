@@ -7,12 +7,15 @@ https://docs.google.com/spreadsheets/d/1y6r9WXb2a9FA0KxBa__Y3LriUq8_KHakMViJ2irY
 
 Resource Icons:
 
-Meat icon: Lorc https://lorcblog.blogspot.com/ under CC BY 3.0
-Carrot Icon: Delapouite https://delapouite.com/ under CC BY 3.0
+Banana peel icon: Delapouite https://delapouite.com/ under CC BY 3.0
+Punch blast icon: Lorc https://lorcblog.blogspot.com/ under CC BY 3.0
+Trap mask icon: Lorc https://lorcblog.blogspot.com/ under CC BY 3.0
+Charn icon: Lorc https://lorcblog.blogspot.com/ under CC BY 3.0
 
+animator: Made by myself
 
-Van Gogh: Foto van een zelfportret van Vincent van Gogh, https://commons.wikimedia.org/wiki/File:Foto_van_een_zelfportret_van_Vincent_van_Gogh,_Bestanddeelnr_255-9139.jpg, Public Domain
+screenwriter: Made by myself
 
-Légumes: https://commons.wikimedia.org/wiki/File:L%C3%A9gumes_01.jpg, Public Domain
+setDesigner: Made by myself
 
-Squirrel by Tfbybyhf: https://commons.wikimedia.org/wiki/File:Squirrel_on_a_Branch.jpg  Public Domain
+specialEffects: Made by myself
